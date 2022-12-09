@@ -1,4 +1,4 @@
-# Group_Project Members
+# Fruits Recognition Using Deep Learning Techniques
 Nicholas McCormick + Pedram Khannakhjavani
 
 **Dataset properties**
