@@ -2,12 +2,14 @@
 Nicholas McCormick + Pedram Khannakhjavani
 
 **Dataset properties**
+
 The dataset Fruits360 contains 55244 RGB images consisting of 100x100 pixels each.
 The dataset will be divided into three classes: tomato, cherry, and strawberry.
 4500 images will be evenly divided amongst the three classes; 1500 each.
 All 4500 images will be converted to 300x300 
 
 **Repository Structure**
+
 Our original Fruits360 repository has been copied into the fruits-360 folder.
 Our traindata folder holds our 4500 images split into their respective folder; cherry, tomato, and strawberry.
 test.py & train.py show the code used to seperate our 4500 images from the original 55244.
@@ -15,6 +17,7 @@ Code.py is our full code containing our Convolutional Neural Network.
 Report.docx is our final report summarizing the project.
 
 **License**
+
 MIT License
 
 Copyright (c) 2022-2023 Nicholas McCormick, Pedram Khannakhjavani
