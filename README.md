@@ -16,7 +16,7 @@ Our traindata folder holds our 4500 images split into their respective folder; c
 test.py & train.py show the code used to seperate our 4500 images from the original 55244.
 Code.py is our full code containing our Convolutional Neural Network.
 Report.docx is our final report summarizing the project.
-
+Final Project-Team 6.mp4 is our video presentation of the project.
 
 **License**
 
