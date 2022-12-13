@@ -1,5 +1,5 @@
 # Fruits Recognition Using Deep Learning Techniques
-Contributors: Nicholas McCormick + Pedram Khannakhjavani
+**Contributors:** Nicholas McCormick + Pedram Khannakhjavani
 
 **Installation**
 To use this project, first clone the repo onto your device using the command below:
