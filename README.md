@@ -33,7 +33,8 @@ Code.py is our full code containing our Convolutional Neural Network.
 Report.docx is our final report summarizing the project.
 Final Project-Team 6.mp4 is our video presentation of the project.
 
-**Methods Used**
+**Methods Used:**
+
 Computer vision, Data Visualization, CNNs, Deep Learning, Case Studies, Image Data Manipulation
 
 **License:**
