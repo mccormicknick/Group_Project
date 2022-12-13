@@ -1,5 +1,16 @@
 # Fruits Recognition Using Deep Learning Techniques
-Nicholas McCormick + Pedram Khannakhjavani
+Contributors: Nicholas McCormick + Pedram Khannakhjavani
+
+**Installation**
+To use this project, first clone the repo onto your device using the command below:
+git init
+git clone https://github.com/mccormicknick/Group_Project.git
+
+
+**Project Objective**
+The interest in computer vision specifically, fruit and vegetable recognition, is increasing exponentially because it is considered an effective way of reducing the human workload. It can also be helpful for disease detection, fruit harvesting, optimizing point of sale (POS) systems, and educating children/people with learning disabilities. A lot of research has been conducted on fruit recognition but there are still many challenges in current methodologies that needed to be addressed to design an efficient fruit recognition system. Thus, this research focuses on developing a fruit recognition system using a machine learning algorithm. This study performs the classification of cherry, strawberry, and tomato using convolutional neural networks.
+
+
 
 **Dataset properties**
 
