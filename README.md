@@ -37,6 +37,10 @@ Final Project-Team 6.mp4 is our video presentation of the project.
 
 Computer vision, Data Visualization, CNNs, Deep Learning, Case Studies, Image Data Manipulation
 
+**Technologies:**
+
+Python
+
 **License:**
 
 MIT License
